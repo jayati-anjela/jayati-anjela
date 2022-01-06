@@ -37,6 +37,14 @@
 
 
 <hr>
-<hr>
+
 
 <h2> My Stats <img src = "https://thelinknewspaper.ca/images/articles/Volume_36/Special/_resized/mediadem.polls.LauraLalonde.gif" width = 50px> </h2>
+ 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jayati-anjela&theme=nightowl&currStreakLabel=DDA523)](https://git.io/streak-stats)
+
+ <br>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=jayati-anjela&show_icons=true&count_private=true&theme=tokyonight)
+ 
+ <hr>
