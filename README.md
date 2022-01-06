@@ -22,7 +22,6 @@
 
 
 <hr>
-
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/jayati-anjela?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 <a href= https://github.com/jayati-anjela?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
@@ -37,8 +36,6 @@
 
 
 <hr>
-
-
 <h2> My Stats <img src = "https://thelinknewspaper.ca/images/articles/Volume_36/Special/_resized/mediadem.polls.LauraLalonde.gif" width = 50px> </h2>
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jayati-anjela&theme=nightowl&currStreakLabel=DDA523)](https://git.io/streak-stats)
